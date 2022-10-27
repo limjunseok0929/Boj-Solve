@@ -8,4 +8,4 @@ cpp 과 ps 공부를 목적으로 만든 레포지토리 입니다.
 
 ---
 
-boj id: limjunseok_dev
+boj id: dlawnstjr
